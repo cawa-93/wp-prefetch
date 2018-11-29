@@ -2,7 +2,7 @@
 
 add_action( 'admin_init', function () {
 
-  \add_settings_section(
+  add_settings_section(
 		'prefetch_section', // секция
     __('Prefetch visible links'),
     function () {},
