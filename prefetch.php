@@ -13,6 +13,8 @@ namespace WP\Plugins\Prefetch;
  * Author URI:        https://t.me/kozack
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * GitHub Plugin URI: https://github.com/cawa-93/wp-prefetch
+ * GitHub Branch:     master
  */
 
 
